@@ -1,0 +1,6 @@
+uottawa/engineering/notifications/BuildConfig.java
+ uottawa.engineering.notifications.BuildConfig
+uottawa/engineering/notifications/MainActivity.java
+ uottawa.engineering.notifications.MainActivity
+uottawa/engineering/notifications/App.java
+ uottawa.engineering.notifications.App
